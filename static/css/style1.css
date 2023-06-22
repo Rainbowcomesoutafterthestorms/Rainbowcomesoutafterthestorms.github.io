@@ -1,0 +1,21 @@
+/*  
+Theme Name:   Mayosis
+Theme URI: https://teconce.com
+Description: Wordpress Theme With Easy Digital Download & Awesome Options.
+Author: Teconce
+Author URI: https://teconce.com/contact/
+Version:3.6
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: custom-background, threaded-comments, translation-ready, custom-menu
+Text Domain: mayosis */
+
+.the_champ_vertical_counter, .the_champ_vertical_sharing {
+   display:none !important;
+}
+.the_champ_sharing_ul{
+	display:none !important;
+}
+.the_champ_sharing_container{
+	display:none !important;
+}
